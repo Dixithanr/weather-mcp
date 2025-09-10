@@ -72,4 +72,4 @@ jobs:
           app-name: 'apim-mcp-test-dixitha'
           slot-name: 'Production'
           package: ${{ env.AZURE_FUNCTIONAPP_PACKAGE_PATH }}
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_5755A4BEB8A54BDEA5D4D0174CF4D022 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_B43C6B52C0BE4A3F8D04683329F5CE1E }}
